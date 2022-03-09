@@ -5,4 +5,5 @@ messages de manière automatique. Vous pouvez rejoindre et associé
 100 serveurs maximum par compte sauf si votre compte est premium, 
 vous pouvez associé jusqu'à 200 serveurs.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](./demo.mp4)
+https://user-images.githubusercontent.com/28318921/157450353-23c722f1-f3ae-4f14-97c9-29a7c5780516.mp4
+
